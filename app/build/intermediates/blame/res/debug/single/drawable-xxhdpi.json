@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_person_outline_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_contacts_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_contacts_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_location_on_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_phone_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_box_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_lock_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock_black_24dp.png"
+    }
+]

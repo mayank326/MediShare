@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_box_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_box_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_lock_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_email_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_location_on_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contacts_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_contacts_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_phone_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_person_outline_black_24dp.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_outline_black_24dp.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\dialer.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\src\\main\\res\\mipmap-hdpi\\dialer.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

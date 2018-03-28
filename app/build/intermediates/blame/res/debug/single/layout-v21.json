@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\MAYANK\\.android\\build-cache\\121450e21e2e9eda05ddab6fd69c518b2362670d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\MAYANK\\.android\\build-cache\\121450e21e2e9eda05ddab6fd69c518b2362670d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\MAYANK\\.android\\build-cache\\121450e21e2e9eda05ddab6fd69c518b2362670d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAYANK\\AndroidStudioProjects\\MediShare\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\MAYANK\\.android\\build-cache\\121450e21e2e9eda05ddab6fd69c518b2362670d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mayank.medishare.medicineinfo1">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/com_facebook_button_login_silver_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:paddingBottom="10dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:paddingBottom="5sp"
+            android:paddingTop="5sp"
+            android:text="   Register to Donate"
+            android:textColor="@color/bodyTextColor"
+            android:textSize="35sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView12"
+            android:paddingBottom="15sp"
+            android:text="  ( Put your medicine details down here )"
+            android:textColor="@color/bodyTextColor"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/Mname1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView13"
+            android:hint="   Medicine Name"
+            android:padding="15sp"
+            android:textSize="25sp" />
+
+        <EditText
+            android:id="@+id/Mqut1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Mname1"
+            android:hint="   Quantity"
+            android:padding="15sp"
+            android:textSize="25sp"
+            android:inputType="number"/>
+
+        <EditText
+            android:id="@+id/Mmaf1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Mqut1"
+            android:hint="   Manufacturing Date"
+            android:padding="15sp"
+            android:textSize="25sp"
+            />
+
+        <EditText
+            android:id="@+id/Mexp1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Mmaf1"
+            android:hint="   Expiry Date"
+            android:padding="15sp"
+            android:textSize="25sp"
+
+            />
+
+
+        <EditText
+            android:id="@+id/Mcmp1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Mexp1"
+            android:hint="   Company Name"
+            android:padding="15sp"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Mcmp1"
+            android:paddingTop="15sp"
+            android:text="      wants to donate more click"
+            android:textColor="@color/bodyTextColor"
+            android:textSize="20sp" />
+
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Mcmp1"
+            android:layout_toRightOf="@+id/textView14"
+            android:paddingTop="15sp"
+            android:text=" here"
+            android:textColor="@color/com_facebook_messenger_blue"
+            android:textSize="20sp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView14"
+            android:paddingTop="25dp"
+            android:text="Submit"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
